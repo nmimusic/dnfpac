@@ -11,9 +11,9 @@
 #                             \ \_\
 #                              \/_/
 # A Pacman wrapper with syntax based on Fedora's DNF
-# Copyright (c) 2022-2023 Radio New Japan Broadcasting Network.
+# Copyright (c) 2022-2023 Nakamura Musical Industries/NIPPON RURITANIA
 # License: Do What The Fuck You Want To Public License
-# maintained by Hayate Nakamura
+# maintained by Jin Asanami
 
 # Enter the path to the AUR helper you want to use here. 
 # If it is empty, the corresponding AUR helper will be searched automatically.
